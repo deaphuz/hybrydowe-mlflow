@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Marcin/PycharmProjects/mlflow/mlruns/503142107758087939/c466ce88dd57459c8c3a762a472f9c31/artifacts
+end_time: 1718361146641
+entry_point_name: ''
+experiment_id: '503142107758087939'
+lifecycle_stage: active
+run_id: c466ce88dd57459c8c3a762a472f9c31
+run_name: legendary-finch-319
+run_uuid: c466ce88dd57459c8c3a762a472f9c31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718361118980
+status: 3
+tags: []
+user_id: Marcin
