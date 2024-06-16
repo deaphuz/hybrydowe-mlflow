@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Marcin/PycharmProjects/mlflow/mlruns/0/b21a0009ae634040b320addcd1ca758c/artifacts
+end_time: 1718529847225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b21a0009ae634040b320addcd1ca758c
+run_name: languid-roo-195
+run_uuid: b21a0009ae634040b320addcd1ca758c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718529841371
+status: 3
+tags: []
+user_id: Marcin

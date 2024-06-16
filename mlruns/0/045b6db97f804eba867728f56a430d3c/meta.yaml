@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Marcin/PycharmProjects/mlflow/mlruns/0/045b6db97f804eba867728f56a430d3c/artifacts
+end_time: 1718529841177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 045b6db97f804eba867728f56a430d3c
+run_name: receptive-mule-192
+run_uuid: 045b6db97f804eba867728f56a430d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718529826116
+status: 3
+tags: []
+user_id: Marcin

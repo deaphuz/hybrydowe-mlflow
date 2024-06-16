@@ -1,0 +1,11 @@
+digest: dbddd9bb
+name: dataset
+profile: '{"features_shape": [8982, 1000], "features_size": 8982000, "features_nbytes":
+  71856000, "targets_shape": [8982, 46], "targets_size": 413172, "targets_nbytes":
+  3305376}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 1000]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1, 46]}}]"}}'
+source: '{"tags": {"mlflow.user": "Marcin", "mlflow.source.name": "C:\\Users\\Marcin\\PycharmProjects\\mlflow\\examples.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "8d8864059aa26dbf8df8c354074471d3200ce4cd"}}'
+source_type: code
